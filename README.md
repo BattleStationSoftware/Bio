@@ -140,7 +140,7 @@ foreatch (var item in org.bdsmtest.Result) { Console.Write($" {item.Percentage}%
 32% Degrader \
 27% Exhibitionist \
 26% Master/Mistress \
-22% Non-monogamist \
+22% Non-monogamist
 
 
 ## bio.colors(key: "yay >~<");
