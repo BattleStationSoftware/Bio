@@ -2,8 +2,8 @@
 >[!NOTE]
 > Console.Write("huh.. there is a bio?");
 > 
-> // "bio.ShittyPerson" and Stay away from them!!!
-> 
+> // 🚷 "bio.ShittyPerson" and Stay away from them!!!
+>
 > bio.version(DateTime "14-04-2024 16:40");
 > v.2.2.6
 > 
