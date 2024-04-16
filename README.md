@@ -4,8 +4,8 @@
 > 
 > // 🚷 "bio.ShittyPerson" and Stay away from them!!!
 >
-> bio.version(DateTime "14-04-2024 16:40");
-> v.2.2.6
+> bio.version(DateTime "14-04-2024 16:40"); \
+> v.2.03.000
 > 
 > bio.emotes();
 > 🎮| probably multi tasking
@@ -91,7 +91,7 @@ Unofficial == ♥ \
 lily (129297)💍 My Lovely wife somtime too lovely ^^ \
 Christelle (152772)❤️ My first lover she is a good wolfie. \
 Mojax (154303)❤️ You won't be forgotten Live on of ever! I'm allway's there for you! \
-Guest Wind (142146)❤️ - My Little bite loving Dragon \
+Guest Wind (142146)❤️ - My Little bite loving Dragon
 
 
 ## bio.Friends(rating.Best);
@@ -159,7 +159,7 @@ don't keep scroling
 
 ## bio.ShittyPerson("noOrder");
 > [!CAUTION]
-> // BE WARNED about thies people.
+> // BE WARNED about thies people. \
 > Miss Amy (154377) - Locked herself from interactions and then Ties you up and is Gone forever.
 
 
