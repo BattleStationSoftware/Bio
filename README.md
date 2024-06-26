@@ -4,8 +4,8 @@
 > 
 > // 🚷 "bio.ShittyPerson" and Stay away from them!!!
 >
-> bio.version(DateTime "19-04-2024 15:40"); \
-> v.2.04.000
+> bio.version(DateTime "26-06-2024 20:00"); \
+> v.2.05.000
 > 
 > bio.emotes();
 > 🎮| probably multi tasking
@@ -42,6 +42,7 @@ She popaply then get very mad.
 - gag really love them, not being able to talk
 - cuddles
 - bite others with Blåhaj or on her own.
+- Hypnosis and all sorts of Triggers.
 - Experiment's ()
 
 
