@@ -43,6 +43,7 @@ She popaply then get very mad.
 - cuddles
 - bite others with Blåhaj or on her own.
 - Hypnosis and all sorts of Triggers.
+- Mind Control and Brainwashing
 - Experiment's ()
 
 
