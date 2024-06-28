@@ -4,8 +4,8 @@
 > 
 > // 🚷 "bio.ShittyPerson" and Stay away from them!!!
 >
-> bio.version(DateTime "26-06-2024 20:00"); \
-> v.2.05.000
+> bio.version(DateTime "29-06-2024 20:00"); \
+> v.2.06.000
 > 
 > bio.emotes();
 > 🎮| probably multi tasking
@@ -70,6 +70,7 @@ She popaply then get very mad.
 ## bio.nono(out int[] playerBlacklist);
 - Not a fan of the usual gross and violent stuff.
 - Permanent injury
+- Electric things
 - ABDL
 - scatt
 - Dollification
