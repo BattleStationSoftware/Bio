@@ -4,8 +4,8 @@
 > 
 > // 🚷 "bio.ShittyPerson" and Stay away from them!!!
 >
-> bio.version(DateTime "29-06-2024 20:00"); \
-> v.2.06.000
+> bio.version(DateTime "4-07-2024 20:30"); \
+> v.2.07.000
 > 
 > bio.emotes();
 > 🎮| probably multi tasking
@@ -84,24 +84,20 @@ She popaply then get very mad.
 
 
 ## bio.OwedBy();
-Lovely Lily (129297) 🦋 \
-She the best mistress and will always have a place in my heart♥ \
-var secret = "hihi she loves to be bitten by Blåhaj♥";
-
+Susi (154899) 🦋 \
+Give her some headpads when you see her.
 
 ## bio.lovers(any);
 Unofficial == ♥ \
-lily (129297)💍 My Lovely wife somtime too lovely ^^ \
-Christelle (152772)❤️ My first lover she is a good wolfie. \
-Mojax (154303)❤️ You won't be forgotten Live on of ever! I'm allway's there for you! \
-Guest Wind (142146)❤️ - My Little bite loving Dragon
-Natty (125184)❤️ - Wholesome and Cute Puppy (my little war Puppy)
-
+lily (129297)❤️ My Lovely kitty sometimes too lovely ^^ \
+ She was my first mistress and will always have a place in my heart♥ \
+Christelle (152772)❤️ My first lover she is a good wolfie.
+Mojax (154303)❤️- You won't be forgotten Live on of ever! I'm Alway's there for you! \
+Natty (125184)❤️ - Wholesome and Cute Puppy (my little war Puppy) \
+Susi (154899)❤️ - My cute little kitten. I love her sometimes but don't tell anyone. She's One of the Best RP and Cards player i know
 
 ## bio.Friends(rating.Best);
-Susi (154899)⭐ - One of the Best RP nad Cards player i know \
-Natty (125184) - Wholesome and Cute Puppy
-
+Guest Wind (142146) - My Little bite loving Dragon \
 
 ## bio.NicePeople(rating.None);
 Nancy (8699) \
