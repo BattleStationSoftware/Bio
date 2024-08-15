@@ -36,7 +36,6 @@ Elise and Blåhaj's Souls once united so don't you hurt Blåhaj you hurt Elise t
 She popaply then get very mad.
 
 
-
 ## bio.adoreIt();
 - likes to pet people and likes to be petted too.
 - gag really love them, not being able to talk
@@ -80,12 +79,14 @@ She popaply then get very mad.
 
 
 ## bio.WantToTry(order.None);
-- Some bcx ruels (you have to get to know me first)
+- Some bcx ruels (only my mistress is allowed)
 
 
-## bio.OwedBy();
-Susi (154899) 🦋 \
-Give her some headpads when you see her.
+## bio.OwedBy(since: 04.07.2024);
+Susi (154899) 🦋❤️ \
+My cute little kitten. She's One of the Best RP and Cards player i know \
+Give her some head pads when you see her.
+
 
 ## bio.lovers(any);
 Unofficial == ♥ \
@@ -94,10 +95,11 @@ lily (129297)❤️ My Lovely kitty sometimes too lovely ^^ \
 Christelle (152772)❤️ My first lover she is a good wolfie.
 Mojax (154303)❤️- You won't be forgotten Live on of ever! I'm Alway's there for you! \
 Natty (125184)❤️ - Wholesome and Cute Puppy (my little war Puppy) \
-Susi (154899)❤️ - My cute little kitten. I love her sometimes but don't tell anyone. She's One of the Best RP and Cards player i know
+
 
 ## bio.Friends(rating.Best);
 Guest Wind (142146) - My Little bite loving Dragon \
+
 
 ## bio.NicePeople(rating.None);
 Nancy (8699) \
