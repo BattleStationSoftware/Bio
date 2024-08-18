@@ -90,9 +90,8 @@ Give her some head pads when you see her.
 
 ## bio.lovers(any);
 Unofficial == ♥ \
-lily (129297)❤️ My Lovely kitty sometimes too lovely ^^ \
- She was my first mistress and will always have a place in my heart♥ \
-Christelle (152772)❤️ My first lover she is a good wolfie.
+Christelle (152772)❤️ My first lover she is a good Wolfie. (+182 Days because bc is buggy) \
+lily (129297)❤️ an lovely kitty sometimes too lovely ^^ \
 Mojax (154303)❤️- You won't be forgotten Live on of ever! I'm Alway's there for you! \
 Natty (125184)❤️ - Wholesome and Cute Puppy (my little war Puppy) \
 
