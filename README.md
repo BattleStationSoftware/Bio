@@ -1,7 +1,4 @@
-## Init("typeOf(Bio)");
 >[!NOTE]
-> Console.Write("huh.. there is a bio?");
-> 
 > // 🚷 "bio.ShittyPerson" and Stay away from them!!!
 >
 > bio.version(DateTime "4-07-2024 20:30"); \
@@ -13,28 +10,53 @@
 > ❗| I'm pissed you sould end RP and un tie if you don't want a place on the ShittyPerson List!
 
 
-## bio.character(name: "Elise", mode: Mode.Sub, new { "brat", "kittn", "RopeBunny" });
-Elise is a mostly cute kitten "𝓜𝓮𝓮𝔀" Her Favourite thing is her Blåhaj! \
-She couldn't live without him sometimes it seems as if their souls are united. \
-Then a wite sting formes betwen them uniting them don't try to seperate them or she will Die. \
-Extreme Shy at first and she get very quickly anxiety to speak to more than one new people. \
-When you want take her hand speak or play with her she will propaply play along. \
-She needs a little bit more attention then others. Force her to speak. \
-You Could tun her also in a rope Bunny but good luck with that. ^^
+## bio.character(name: "Elise", new { "brat", "kittn", "RopeBunny" });
+```
+guest@ボイド:~/ID156092$ git pull
+OK.
 
+guest@ボイド:~/ID156092/profile$ vim profile.md
+This profile is cleared by PMSoftware. Please, stand by
+...
+--------------------------- ID Card ---------------------------
+ID: ID156092
+Name: // CLEARED //
+Sex: Female
+Age: 21
+Status: Permanent Prisoner and Proparty of Susi 
+Date of imprisonment: 	05.07.2024
+Term of imprisonment: 	Forever
+Type of imprisonment: 	// CLEARED //
+---------------------------------------------------------------
 
-## bio.character(name: "Elise", mode: Mode.Top, new { "kittn" });
-Extreme Shy at first and she get very quickly anxiety to speak to more than one new people. \
-When you want take her hand speak or play with her she will propaply play along. \
-I don't know mutch about her exept for it's quite treicky to get her in this State. \
-But wehn you try Help Expore this Side.
+guest@ボイド:~/ID156092/profile$ vim Character();
+// CLEARED // is mostly an cute kitten "𝓜𝓮𝓮𝔀" she loves to bite.
+But she can also be very bratty she also DENIES being apparently "cute"
+...
+...
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Barcode:  ▌│▌│▌│▌█║│▌││║█║                         Object:				    156092
+                                                   Name: 				    // CLEARED //
+											       Age: 				    20 (at the day of capture)
+Permissions: 		    Speech = [ALLOWED]	       Arousal: 			    99%
+					    Sight = [ALLOWED]		   Pain: 				    0%
+					    Hearing = [ALLOWED]	       Brainwashing: 		    90%
+Sex: 				    Female                     Medication: 			    Aphrodisiacs
+Sexuality: 			    any                        Treatment:			    Permanent Edging
+Race: 				    Kitty   				   Orgasm allowed: 		    [NEVER ALLOWED]
+Hair colour: 		    Light Blue #67E2E2		   Orgasms achieved: 	    0
+Eye color: 			    //CLEARED//  	           Unauthorized Orgasms:    0
+Status: 			    Looking at shiny curves    Successfully escaped: 	0
+Sealed on: 			    05.07.2024                 Personality: 			Brat, Maid, Obedient to Mistress
+Sentence:    			Permanent                  Collar trigger: 			[N/A]
+Type of imprisonment:   ______________		       Hypnosis trigger: 		[N/A]
+Last words:             [N/A]
 
-## bio.character(name: "Blåhaj");
-Blåhaj like's to bite Elise can't controle it when he bites. \
-Elise and Blåhaj's Souls once united so don't you hurt Blåhaj you hurt Elise too. \
-She popaply then get very mad.
-
+This data was automatically generated using SM Sofware Info V:1.0.0 all rights reserved to "Leash Candy"
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+```
 
 ## bio.adoreIt();
 - likes to pet people and likes to be petted too.
@@ -43,7 +65,7 @@ She popaply then get very mad.
 - bite others with Blåhaj or on her own.
 - Hypnosis and all sorts of Triggers.
 - Mind Control and Brainwashing
-- Experiment's ()
+- Experiment's
 
 
 ## bio.likes();
@@ -53,12 +75,12 @@ She popaply then get very mad.
 - armbinder
 - being tricked
 - Edging (only connected with rp) 
-- pet play (u have to tame me the kittn first)
-  - petsuite (The best one is the one Lily gave her)
+- pet play (u have to tame me the kitten first)
+  - petsuite
 - non con play (u need to know me fist)
   - forced into submissive
 - Breath play
-- Electro play (quite unsure yet ask me please + ;) PiShock )
+- Electro play (quite unsure yet ask me please + ;) PiShock)
 
 
 ## bio.dislike();
